@@ -1,0 +1,10 @@
+{
+  "name": "Legend of Zelda: Skyward Sword - Menu theme",
+  "description": "This is the theme song when you are in main menu in Legend of Zelda: Skyward Sword.",
+  "author": "Gabriel-Nipper",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
